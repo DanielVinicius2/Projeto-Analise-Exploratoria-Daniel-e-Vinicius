@@ -4,13 +4,6 @@
 
 Este repositório contém um projeto de **análise exploratória de dados** realizado por Daniel e Vinícius. O objetivo é examinar, limpar e interpretar dados para extrair conclusões, padrões ou insights iniciais. Todos os passos da análise — desde a carga dos dados até visualizações e comentários — estão contidos no notebook `Trabalho.ipynb`.  
 
-## 📁 Estrutura do Repositório
-
-├── Trabalho.ipynb # Notebook principal com a análise exploratória
-├── README.md # Este arquivo de documentação
-└── LICENSE # Licença do projeto (MIT)
-
-
 ## 🚀 Como Executar / Utilizar
 
 1. Clone este repositório:  
